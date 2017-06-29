@@ -43,4 +43,4 @@ For further help, please contact me through github.
 
 ## License
 
-MIT, Copyright by Tanner Eustice
+MIT, Copyright by Tanner Eustice, Aubrey Masten, Sean Pierce, Ben Williams
