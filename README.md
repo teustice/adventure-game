@@ -32,16 +32,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Page Views
 
-_landing page:_
-![](https://github.com/niklaslong/chatroom/blob/master/public/img/landing-page.png?raw=true)
-_create an account:_
-![](https://github.com/niklaslong/chatroom/blob/master/public/img/create_account.png?raw=true)
-_view and edit profile info:_
-![](https://github.com/niklaslong/chatroom/blob/master/public/img/edit-profile.png?raw=true)
-_chat room:_
-![](https://github.com/niklaslong/chatroom/blob/master/public/img/chat-view.png?raw=true)
-_view user info:_
-![](https://github.com/niklaslong/chatroom/blob/master/public/img/view-user-info.png?raw=true)
+_Intro Page:_
+![](https://github.com/teustice/adventure-game/blob/master/src/assets/img/Screen%20Shot%202017-06-29%20at%203.43.14%20PM.png)
+_Scene Editor:_
+![](https://github.com/teustice/adventure-game/blob/master/src/assets/img/Screen%20Shot%202017-06-29%20at%203.42.38%20PM.png)
 
 ## Further help
 
